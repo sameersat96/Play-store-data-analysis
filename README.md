@@ -1,5 +1,10 @@
 # Play-store-data-analysis
-Analysis of play store app data and its sentiment analysis
+
+![image](https://user-images.githubusercontent.com/95841292/182010746-e342365c-4930-4f1c-afe6-728979504318.png)
+
+
+
+Analysis of play store app data and its sentiment analysis.
 # Introduction
 In this project, i investigate the different variables of Apps on Google Play Store that affect the application and the top relevant user reviews. i attempt to use our analysis to answer the following questions:
 
