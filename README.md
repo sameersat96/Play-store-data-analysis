@@ -57,6 +57,6 @@ We created a word cloud of commonly occurring words in positive and negative rev
 
 5)There is a positive correlation between installs and ratings
 
-8)For paid apps, users review harshly.
+6)For paid apps, users review harshly.
 
-9)Basic sentiment analysis revealed some common issues like loading time and inconvenience with apps may contribute to a negative rating. Usability was one of the main reasons apps were rating positive.
+7)Basic sentiment analysis revealed some common issues like loading time and inconvenience with apps may contribute to a negative rating. Usability was one of the main reasons apps were rating positive.
