@@ -60,3 +60,23 @@ We created a word cloud of commonly occurring words in positive and negative rev
 6)For paid apps, users review harshly.
 
 7)Basic sentiment analysis revealed some common issues like loading time and inconvenience with apps may contribute to a negative rating. Usability was one of the main reasons apps were rating positive.
+
+
+
+# 📜 Credits
+
+Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+Special thanks to AlmaBetter
+
+Contact me for Data Science Project Collaborations
+
+[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/sameersatpute/)
+[![image](https://user-images.githubusercontent.com/95841292/202914715-787f6ae3-d9f6-491c-9cae-c717131ddebd.png)](https://github.com/sameersat96)
+[![image](https://user-images.githubusercontent.com/95841292/202914883-bce71634-6c2b-4305-8020-4b240cb76e41.png)](https://medium.com/@sameersatpute)
+![image](https://user-images.githubusercontent.com/95841292/202914940-5d5eba71-e45d-4e95-8dfe-65e45d255aec.png)
+
+
+
+
+# 📚 References
